@@ -1,0 +1,4 @@
+Test: 0/5 in level 2 (integral squares of 11-29)
+Max: 5/5 in level 1 (simple operations with numbers 2-9)
+test_2: 5/5 in level 1 (simple operations with numbers 2-9)
+test3: 1/5 in level 2 (integral squares of 11-29)
